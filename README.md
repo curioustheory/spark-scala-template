@@ -1,4 +1,4 @@
-                    Apache Spark Scala Job Template
+  # Apache Spark Scala Job Template
   
   What is it?
   -----------
@@ -14,27 +14,27 @@
   Before running the project you will need to make sure you have these 
   things installed (which I used to write this template):
 
-    o Scala 2.11.8 (http://www.scala-lang.org/)
-    o SBT 0.13.12 (http://www.scala-sbt.org/)
-    o Apache Spark 2.0.1 (https://spark.apache.org/)
-    o Scala IDE (http://scala-ide.org/)
+  * Scala 2.11.8 (http://www.scala-lang.org/)
+  * SBT 0.13.12 (http://www.scala-sbt.org/)
+  * Apache Spark 2.0.1 (https://spark.apache.org/)
+  * Scala IDE (http://scala-ide.org/)
   
   Configuration Files
   -------------------
 
   You will find the following configuration files here:
   
-    o /project/build.properties
-    o /project/Dependencies.scala
-    o /project/plugins.sbt
-    o /build.sbt
+  * /project/build.properties
+  * /project/Dependencies.scala
+  * /project/plugins.sbt
+  * /build.sbt
   
   Running on Scala-IDE for Eclipse
   --------------------------------
   
-    o in the command line navigate to project directory and run "sbt clean eclipse"
-    o import project into Scala IDE
-    o run DataPreparationTemplate.scala
+  * in the command line navigate to project directory and run "sbt clean eclipse"
+  * import project into Scala IDE
+  * run DataPreparationTemplate.scala
 
   Licensing
   ---------
